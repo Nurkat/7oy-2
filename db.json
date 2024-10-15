@@ -6,7 +6,9 @@
                   "companyName": "Najot Talim",
                   "inn": "110827095",
                   "status": "Faol",
-                  "address":"Toshkent, Chilonzor 9kv",
+                  "regionId":"2",
+                  "regionName":"Fargona",
+                  "address":"Chilonzor 9kv",
                   "createdat":"27.09.2018"
                 },
                 {
@@ -15,7 +17,9 @@
                   "companyName": "Internation school",
                   "inn": "324958812",
                   "status": "Faol",
-                  "address":"Toshkent, Xalqlar Dostligi",
+                  "regionId":"1",
+                  "regionName":"Toshkent",
+                  "address":"Xalqlar Dostligi",
                   "createdat":"27.09.2017"
                 }
             ]
