@@ -58,7 +58,6 @@ function OrganizationMore() {
            </li>
            </li>
        </ul>
-
     </div>
   )
 }
