@@ -1,15 +1,16 @@
 import React from 'react';
 import { Table } from 'antd';
 
+const CustomTable = ({ columns, data, isLoading, onChange, tableParams }) => {
 
-const CustomTable = ({columns,data,isLoading}) => {
-   return(
-       <Table
-         columns={columns}
-         dataSource={data}
-         loading={isLoading}
-       />
-   )
+    return (
+        <Table
+            pagination={tableParams.pagination}
+            onChange={onChange}
+            columns={columns}
+            dataSource={data}
+            loading={isLoading}
+        />
+    )
 }
-
 export default CustomTable;

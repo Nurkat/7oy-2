@@ -1,28 +1,59 @@
 {
-    "organization":[
-                {
-                  "key": "1",
-                  "id":"1",
-                  "companyName": "Najot Talim",
-                  "inn": "110827095",
-                  "status": "Faol",
-                  "regionId":"2",
-                  "regionName":"Fargona",
-                  "address":"Chilonzor 9kv",
-                  "createdat":"27.09.2018"
-                },
-                {
-                  "key": "11",
-                  "id":"2",
-                  "companyName": "Internation school",
-                  "inn": "324958812",
-                  "status": "Faol",
-                  "regionId":"1",
-                  "regionName":"Toshkent",
-                  "address":"Xalqlar Dostligi",
-                  "createdat":"27.09.2017"
-                }
-            ]
-        
-    
+  "organization": [
+    {
+      "key": "11",
+      "id": "2",
+      "companyName": "Internation school",
+      "inn": "324958812",
+      "status": "3",
+      "regionId": "1",
+      "regionName": "Toshkent",
+      "address": "Xalqlar Dostligi",
+      "createdat": "27.09.2017"
+    },
+    {
+      "id": "c899",
+      "key": 60,
+      "companyName": "Internation",
+      "inn": "123456788",
+      "status": "1",
+      "regionId": "1",
+      "regionName": "Toshkent viloyati",
+      "address": "Xalqlar Dostligi",
+      "createdat": "2024-10-31"
+    },
+    {
+      "id": "5872",
+      "key": 44,
+      "companyName": "Oq tepa lavash",
+      "inn": "556445464",
+      "status": "1",
+      "regionId": "1",
+      "regionName": "Toshkent viloyati",
+      "address": "Qorasuv 1",
+      "createdat": "2024-10-09"
+    },
+    {
+      "id": "922e",
+      "key": 82,
+      "companyName": "Everest",
+      "inn": "333333",
+      "status": null,
+      "regionId": null,
+      "regionPlace": null,
+      "address": "3",
+      "createdAt": null
+    },
+    {
+      "id": "0a73",
+      "key": 96,
+      "companyName": "Everest",
+      "inn": "333333",
+      "status": null,
+      "regionId": null,
+      "regionPlace": null,
+      "address": "3",
+      "createdAt": null
+    }
+  ]
 }
